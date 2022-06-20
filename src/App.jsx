@@ -15,6 +15,7 @@ function App() {
             count is: {count}
           </button>
           INICIO DE PASANTILLA
+         <h1> Integración continua y despliegue continuo</h1> 
         </p>
         <p>
           Edit <code>App.jsx</code> and save to test HMR updates.
